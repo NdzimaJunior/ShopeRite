@@ -1,35 +1,30 @@
-Supermarket Website  
+   SHOPRITE STYLE SHEET
+   ===================================================
 
-SHOPRITE
+    OVERVIEW
+   - Provides base reset for consistent styling
+   - Defines navigation bar, header/hero, main content, 
+     product categories, buttons, and footer
+   - Includes responsive and mobile-friendly design
 
-Name:Ndzima  
-Student Number: ST10486162
+   📝 CHANGELOG
+   2025-08-20: Added reset defaults and base body styling
+   2025-08-21: Added navigation bar (sticky, flex layout, hover effects)
+   2025-08-22: Styled header/hero section (title, image, layout)
+   2025-08-23: Styled main content area (headings, paragraphs)
+   2025-08-24: Styled main images (responsive, centered, shadows)
+   2025-08-25: Added product categories grid (cards, hover animation)
+   2025-08-26: Added button styles (hover, transitions, scaling)
+   2025-08-27: Added footer styles (dark theme, centered text)
+   2025-08-28: Added responsive adjustments for tablets (≤768px)
+   2025-08-29: Added responsive adjustments for mobile (≤480px)
 
-OVERVIEW FOR SHOPRITE
-
-i created a website for shoprite in odrder to improve their old websie. as stated on my proposal . i have calculated this follwing budget 
-Development: R8,500 (freelance design & coding).
-Hosting: R2,000/year (SiteGround).
-Domain: R230/year.
-Maintenance: R4,200/year (updates & support).
-Total Estimated Cost: R14,930/year.
-this budget is fair because it was the cheapest i could offer and it also allows me to have a affortable budget.and here are some facts i reseached about shoprite. based on our research with the shoprite mangemnt here are some missions and vissions we want to achieve including both the website and the shop itself ..
-
-Mission:
-Our mission is to offer good quality products at low prices to all our customers. We want to give friendly and helpful service so shopping with us is easy and pleasant. We aim to meet the needs of every customer every day.
-
-Vision:
-Our vision is to become the most trusted and liked shop in our community. We want to be the place where people go first for great value, convenience, and a caring shopping experience. We also want to create a good workplace for our staff where they feel respected and happy. 
-
-THANK YOU
-
-. down below is a timeline on how long it took me to do the web and some shoprite referencing we researched.
+   📱 BREAKPOINTS
+   - ≤768px: Tablet view (nav vertical, categories stack, smaller fonts/images)
+   - ≤480px: Mobile view (reduced padding, smaller text/buttons)
+     
 
 
-Week 1: Gather requirements and finalize concepts.
-Week 2-3: Build HTML & CSS templates for all pages.
-Week 4: Add JavaScript functionality and test features.
-Week 5: Review, refine, and prepare for launch
 
 
 
